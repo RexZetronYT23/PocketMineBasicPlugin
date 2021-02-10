@@ -1,0 +1,4 @@
+name: PocketMinBasicPlugin # Plugin Name
+api: 3.0.0 # PocketMine API Version
+main: plugin\author\Main # Pfad zur Main Datei
+version: 1.0.0 # Plugin Version
