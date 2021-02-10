@@ -1,2 +1,2 @@
 # PocketMineBasicPlugin
-Pocketmine Plugin Aufbau / Struktur von Plugi
+Pocketmine Plugin Aufbau / Struktur von Plugins
