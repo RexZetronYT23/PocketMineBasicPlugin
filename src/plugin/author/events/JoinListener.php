@@ -4,6 +4,7 @@ namespace plugin\author\events;
 
 use pocketmine\event\Listener;
 use plugin\author\Main;
+use pocketmine\event\player\PlayerJoinEvent;
 
 class JoinListener implements Listener {
     
