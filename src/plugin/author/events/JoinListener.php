@@ -17,7 +17,7 @@ class JoinListener implements Listener {
     public function onJoin(PlayerJoinEvent $event){
        $player = $event->getPlayer();
        $name = $player->getName();
-       $player->sendMessage("§aWillkommen, §g{$name}");
+       $event->setJoinMessage("§aWillkommen, §g{$name}");
     }
 
 }
